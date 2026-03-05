@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "London",
+  "base_artist": "Sad Kid Yaz",
+  "createdAt": "2026-03-05T11:48:02.471291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Brief History Of Planet Earth - Live in London, Berlin, Utrecht and Barcelona ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_A_Brief_History_Of_Planet_Earth_-_Live_in_London,_Berlin,_Utrecht_and_Barcelona__King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Brief History of Planet Earth (Live in London, Berlin, Utrecht and Barcelona '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_A_Brief_History_of_Planet_Earth_(Live_in_London,_Berlin,_Utrecht_and_Barcelona_'_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planet B - Live in London ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Planet_B_-_Live_in_London_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planet B (Live in London '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Planet_B_(Live_in_London_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cemeteries of London",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_Cemeteries_of_London_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fighting In Built Up Areas (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Fighting_In_Built_Up_Areas_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kletva (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/07_Kletva_(Live_At_London_Astoria_16.07.08)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Runaway_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soft Power (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Soft_Power_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Babys - Live from Eventim Apollo Hammersmith, London UK, Mar 4 2018",
+      "artist": "Bon Iver",
+      "has_synced": false,
+      "path": "select/10_Babys_-_Live_from_Eventim_Apollo_Hammersmith,_London_UK,_Mar_4_2018_Bon_Iver.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Babys (Live from Eventim Apollo Hammersmith, London UK, Mar 4 2018)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/11_Babys_(Live_from_Eventim_Apollo_Hammersmith,_London_UK,_Mar_4_2018)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "London, Bye, Ta Ta",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_London,_Bye,_Ta_Ta_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "London, Bye, Ta-Ta - Stereo Version;2009 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_London,_Bye,_Ta-Ta_-_Stereo_Version;2009_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "London Bye Ta-Ta (Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_London_Bye_Ta-Ta_(Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "London, Bye, Ta-Ta - Alternate Stereo Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_London,_Bye,_Ta-Ta_-_Alternate_Stereo_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "London, Bye, Ta‐Ta (Alternate Stereo Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_London,_Bye,_Ta‐Ta_(Alternate_Stereo_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "London, Bye, Ta‐Ta (Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_London,_Bye,_Ta‐Ta_(Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The London Boys",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/18_The_London_Boys_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "London",
+      "artist": "Sad Kid Yaz",
+      "has_synced": false,
+      "path": "select/pl_01_London_Sad_Kid_Yaz.txt"
+    }
+  ]
+}
